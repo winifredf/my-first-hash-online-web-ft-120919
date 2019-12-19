@@ -21,7 +21,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  hash = {"key3" => "value1"} 
+  shipping_manifest = {"key3" => "value1"} 
   hash["key3"]
 end  
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
